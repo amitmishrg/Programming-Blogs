@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://static.thenounproject.com/png/82883-200.png">
+</p>
+
 # Programming Blogs
 List of programming blogs  
 
