@@ -2,7 +2,7 @@
   <img src="https://static.thenounproject.com/png/82883-200.png">
 </p>
 
-# Programming Blogs
+# Top Programming Blogs
 List of programming blogs  
 
 - [Developers.google](https://developers.google.com/web/fundamentals/)
